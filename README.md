@@ -10,7 +10,7 @@
 </p>
 
 ## About Me
-Soy un estudiande de la carrera de ingenieria en Software de la "Universidad Tecnica del Norte", con gustos por el desarrollo de Software.
+I am a student studying Software Engineering at the "Universidad Técnica del Norte", with a passion for Software development.
 
 
 ## 🛠️ My Skills
