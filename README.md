@@ -15,7 +15,7 @@ Soy un estudiande de la carrera de ingenieria en Software de la "Universidad Tec
 
 ## 🛠️ My Skills
 
-### Programming Languages
+### Technologies
 
 <p align="center"> 
   &emsp;
