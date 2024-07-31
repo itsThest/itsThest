@@ -1,4 +1,4 @@
-<h1 align="center">Hola,soy Alexander Rodriguez  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola,soy Bixmarck Rodriguez  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Always+learning+new+things"></a>
 </p>
@@ -9,13 +9,12 @@
 	<img src="https://komarev.com/ghpvc/?username=itsThest&label=Profile%20views&color=0047AB&style=plastic?" alt="itsThest" height=25px, width=160px/> 
 </p>
 
-## About Me
-I am a student studying Software Engineering at the "Universidad Técnica del Norte", with a passion for Software development.
+## Sobre Mi
+Soy un apasionado estudiante de Ingeniería en Software, recientemente completé el 5to nivel de mi carrera. Tengo un fuerte interés en el desarrollo web y disfruto creando aplicaciones dinámicas y funcionales. Actualmente, estoy profundizando en el fascinante campo de la seguridad informática, buscando combinar mis habilidades en desarrollo con la protección y seguridad de sistemas.
 
+## 🛠️ Mis Habilidades
 
-## 🛠️ My Skills
-
-### Technologies
+### Tecnologías
 
 <p align="center"> 
   &emsp;
@@ -47,7 +46,7 @@ I am a student studying Software Engineering at the "Universidad Técnica del No
 
 <br>
 
-## Connect with me
+## Contáctame
 
 <p align="center">
   <a href="mailto:your.areb64areb64@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
