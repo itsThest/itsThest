@@ -12,6 +12,9 @@
 ## Sobre Mi
 Soy un apasionado estudiante de Ingeniería en Software, recientemente completé el 5to nivel de mi carrera. Tengo un fuerte interés en el desarrollo web y disfruto creando aplicaciones dinámicas y funcionales. Actualmente, estoy profundizando en el fascinante campo de la seguridad informática, buscando combinar mis habilidades en desarrollo con la protección y seguridad de sistemas.
 
+🔭 Actualmente estoy trabajando en Oson Team.
+🌱 Aprendiendo actualmente Astro.
+
 ## 🛠️ Mis Habilidades
 
 ### Tecnologías
